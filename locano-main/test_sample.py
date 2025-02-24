@@ -1,4 +1,4 @@
-from tornet import ma_ip, change_ip, initialize_environment, change_ip_repeatedly
+from locano import ma_ip, change_ip, initialize_environment, change_ip_repeatedly
 
 # Initialize the environment (install dependencies and start Tor)
 initialize_environment()
